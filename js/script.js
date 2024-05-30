@@ -25,3 +25,7 @@ for(let i = 0; i < numbers.length; i++){
 
 console.log(even);
 console.log(odd);
+
+for(let i = 1; i <= 10; i++){
+    console.log(i);
+}
